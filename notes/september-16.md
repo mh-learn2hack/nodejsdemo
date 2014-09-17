@@ -20,7 +20,7 @@
 
 - Environment setup (windows, osx, linux)
     - [vagrant](https://www.vagrantup.com/)
-    - [submlime](http://www.sublimetext.com/)
+    - [sublime](http://www.sublimetext.com/)
 
 #Action Items
 
