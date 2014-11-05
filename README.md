@@ -6,3 +6,9 @@ Right now, have two separate demos
 * Express Example
 
 Both use Express
+
+##Stack to be used
+* Node.js
+* Mongoose w/ MongoDB
+* Express
+* Embedded JS
