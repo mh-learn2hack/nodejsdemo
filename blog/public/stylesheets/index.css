@@ -1,0 +1,40 @@
+#header{
+}
+
+#header-left{
+  float: left;
+}
+
+#header-right{
+  float: right;
+  margin-right: 10px;
+}
+
+#wrapper{
+    clear: both;
+}
+
+.post{
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+.post-header{
+
+}
+
+.post-title{
+
+}
+
+.post-author{
+    font-style: italic;
+}
+
+.post-content-wrapper{
+
+}
+
+.post-content{
+
+}
