@@ -8,7 +8,7 @@ router.get('/', function(req, res) {
   collection.find({},{}, function(e,docs){
     res.render('index', {
       "posts" : docs,
-      title: "My Blog"
+      title: "Wolverine Blog"
     });
   });
 });
